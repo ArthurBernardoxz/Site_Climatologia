@@ -1,0 +1,1 @@
+const URLbase = "https://api.hgbrasil.com/weather?key=7aab280f"

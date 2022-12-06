@@ -1,7 +1,19 @@
-#Lupa {
-    width: 15px;
+html{
+    background-color: #0066ff;
+    color
+}
+
+body{
+    text-align: center;
+}
+#topo {
+    background-color: white;
+}
+.botoes {
+    background-color: rgb(0, 102, 255);
 }
 
 #conteudo_principal {
-    background-image: url("Imagens\Sol.jpg");
+    display: inline-block;
+    position: relative;
 }
